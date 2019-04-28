@@ -20,6 +20,9 @@
       <a-menu-item key="5">
         <router-link to="/routing"><a-icon :type="icon" />Routing</router-link>
       </a-menu-item>
+      <a-menu-item key="6">
+        <router-link to="/filters"><a-icon :type="icon" />Filters</router-link>
+      </a-menu-item>
     </a-menu>
   </div>
 </template>
